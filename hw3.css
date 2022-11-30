@@ -1,0 +1,34 @@
+		.groove {border-style: groove;
+				 block-size: 2em}
+		.headline { 
+			font-weight: bolder;
+			color: black;
+			margin-left: 20%;
+			padding: .1em;
+			margin-bottom: 0.2em;
+			width: 50%;
+		}
+		.folated { font-size: 3em;
+			text-align: center;
+			margin-left: 20%;
+			margin-bottom: 0.2em;
+			float: right;
+			width: 50%;
+		}
+		.content { 
+			font-weight: bolder;
+			color: black;
+			margin-left: 10%;
+			padding: .1em;
+			margin-bottom: 0.2em;
+			width: 50%;
+		}
+		.newcontent { 
+			font-weight: bolder;
+			color: black;
+			margin-left: 19%;
+			padding: .1em;
+			margin-bottom: 0.2em;
+			width: 50%;
+		}
+		textarea {resize: none;}
